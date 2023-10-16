@@ -1,4 +1,4 @@
-package com.example.nytimesbooks
+package com.example.data
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
